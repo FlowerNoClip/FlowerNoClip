@@ -23,10 +23,10 @@ C++과 C#을 사용하여 다양한 프로젝트를 진행하고 있습니다. �
 
 ## 📬 Contact
 📧 Email: thswl991919@naver.com
-💬 Discord: 44A#1749  
+💬 Discord: 44A#1749 
 📌 LinkedIn: [[Profile Link](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)](#)
 
 ---
-⭐️ 깃허브 방문해주셔서 감사합니다! 프로젝트를 함께 만들어 가요! 🚀
+⭐️ 깃허브 방문해주셔서 감사합니다! 🚀
 </div>
 
