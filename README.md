@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 🌟 Welcome to My GitHub!
 
@@ -26,6 +26,7 @@ C++과 C#을 사용하여 다양한 프로젝트를 진행하고 있습니다. �
 💬 Discord: 44A#1749 
 📌 LinkedIn: [[Profile Link](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)](#)
 
+![Programmers Badge](https://raw.githubusercontent.com/{thswl1230@gmail.com}/Programmers_Badge_Generator/main/result/result.svg)
 ---
 ⭐️ 깃허브 방문해주셔서 감사합니다! 🚀
 </div>
