@@ -32,6 +32,6 @@ C++과 C#을 사용하여 다양한 프로젝트를 진행하고 있습니다. �
 ![Programmers Badge](https://raw.githubusercontent.com/FlowerNoClip/Programmers_Badge_Generator/main/result/result.svg)
 
 ---
-⭐️ 깃허브 방문해주셔서 감사합니다! 🚀
+⭐️ 방문해주셔서 감사합니다! 🚀
 </div>
 
