@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome!&fontSize=50)
 
 ## 🚀 About Me
-안녕하세요! 게임 개발을 좋아하는 개발자입니다. Unreal Engine과 Unity를 활용한 게임 개발주로 하고있습니다. 🎮
+안녕하세요! 게임 개발을 좋아하는 개발자입니다. Unity를 활용한 게임 개발을 주로 하고있습니다. 🎮
 
 ## 🛠 Tech Stack
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
