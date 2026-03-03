@@ -1,44 +1,34 @@
-# Hello, I'm [본인 이름] 👋
+<div align="left">
 
-Unity Developer passionate about building high-performance, scalable game systems.
-(Unity와 성능 최적화, 확장 가능한 시스템 설계에 관심이 많은 개발자입니다.)
+# 🌟 Welcome to My GitHub!
 
----
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome!&fontSize=50)
+
+## 🚀 About Me
+안녕하세요! 게임 개발을 좋아하는 개발자입니다. Unity를 활용한 게임 개발을 주로 하고있습니다. 🎮
 
 ## 🛠 Tech Stack
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Engine
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine)
+## 📌 Projects
+🔹 [프로젝트 헬파이어](https://youtu.be/TKXGBKkq4zQ?si=sYFM4UiIKyWT5Q7X)  
+🔹 [프로젝트 마이 웨이 디펜스](https://youtu.be/ITbrcxB4o34?si=39U2esqV3XFizN3n)
 
-### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [Project Name] | [기간]
-- **Summary:** [프로젝트에 대한 짧은 요약 - 어떤 장르의 게임인지]
-- **Key Challenges:** [성능 최적화, 아키텍처 설계 등 구체적인 해결 문제]
-- **Tech Stack:** Unity, C#, DOTS, etc.
-- 🔗 [Link to Video/Demo](https://...)
-
-### [Project Name] | [기간]
-- **Summary:** [프로젝트 요약]
-- **Key Challenges:** [직면했던 난관과 해결 방법]
-- 🔗 [Link to Video/Demo](https://...)
-
----
-
-## 📚 Technical Blog & Insight
-- [My Tech Blog (Velog)](https://velog.io/@thswl1230/posts)
-- Writing about: Unity Optimization, Design Patterns, and C# Internals.
+## 📚 Blog
+📝 벨로그에서 더 많은 정보를 확인하세요! [Blog Link](https://velog.io/@thswl1230/posts)
 
 ## 📬 Contact
-- Email: thswl991919@naver.com
-- LinkedIn: [Your Profile Link - 꼭 만드세요!]
+📧 Email: thswl991919@naver.com
+
+## 📬 BeakJun & Programmers
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswl9919)](https://solved.ac/thswl9919/)
+![Programmers Badge](https://raw.githubusercontent.com/FlowerNoClip/Programmers_Badge_Generator/main/result/result.svg)
 
 ---
-*Open to collaboration and opportunities in game engine development.*
+⭐️ 방문해주셔서 감사합니다! 🚀
+</div>
+ 이게 내 redeme인데 좀 간지나고 개발자 답게 바꾸자 
