@@ -26,6 +26,9 @@
 ## 📬 BeakJun & Programmers
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswl9919)](https://solved.ac/thswl9919/)
+<img width="588" height="291" alt="image" src="https://github.com/user-attachments/assets/639c38c1-bd8d-4452-a71b-2ac8e041f765" />
+[2026. 04. 28] 기록
+
 ![Programmers Badge](https://raw.githubusercontent.com/FlowerNoClip/Programmers_Badge_Generator/main/result/result.svg)
 
 ---
